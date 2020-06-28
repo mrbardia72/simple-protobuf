@@ -3,7 +3,7 @@ git add .
 
 dt=$(date '+%A-%b-%d-%Y-%H-%M-%S');
 
-git commit -m "grpc-$dt"
+git commit -m "protobuf-$dt"
 
 #git push origin
 
